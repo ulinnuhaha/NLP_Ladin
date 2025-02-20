@@ -11,18 +11,25 @@
   </a>
 </div>
 This is a repository for NLP tasks in Ladin language (Val Badia Variant), including machine translation, text classification, and question answering, using LLMs and mBERT
----
 
-🔥 **State-of-the-art NLP model for low-resource languages**  
-🔗 **Try it on [Hugging Face](https://huggingface.co/my-model)**  
+
+🔥 **NLP Benchmark dataset for Ladin language**  
+🔗 **Try it on [Hugging Face](https://huggingface.co/datasets/ulinnuha)**  
 📄 **Read our [paper](https://arxiv.org/abs/XXXX.XXXXX)**  
 
 ## 📌 Features
-✅ Supports multiple low-resource languages  
-✅ Optimized for efficiency  
-✅ Pre-trained and ready for fine-tuning  
+✅ Supports parallel sentences between Italian and Ladin (Val Badia Varaint)  
+✅ High-filtered synthetic dataset  
+✅ Ready for fine-tuning in machine translation, text classification, and question-answering
 
-## 🚀 Installation
+## Citation
+If you use our resources, please cite:
 ```bash
-pip install my-model
+@article{my_paper,
+  title={My Awesome NLP Model},
+  author={Your Name, Co-authors},
+  journal={ArXiv},
+  year={2025}
+}
+
 
