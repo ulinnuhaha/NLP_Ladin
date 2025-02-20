@@ -1,7 +1,10 @@
 # The First NLP Benchmark for Ladin - an Extremely Low-Resource
 <div align="center">
   <a href="https://huggingface.co/datasets/ulinnuha/mcqa_ladin_italian">
-    <img src="https://img.shields.io/badge/HuggingFace-MCQADataset-yellow" alt="Hugging Face MCQA Dataset">
+    <img src="https://img.shields.io/badge/HuggingFace-MCQA Dataset-yellow" alt="Hugging Face MCQA Dataset">
+  </a>
+  <a href="https://huggingface.co/datasets/ulinnuha/sentiment_analysis_ladin_italian">
+    <img src="https://img.shields.io/badge/HuggingFace-SA Dataset-green" alt="Hugging Face SA Dataset">
   </a>
   <a href="https://arxiv.org/abs/XXXX.XXXXX">
     <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper Link">
