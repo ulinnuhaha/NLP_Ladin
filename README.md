@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper Link">
   </a>
 </div>
-This is a repository for NLP tasks in Ladin language (Val Badia Variant), including machine translation, text classification, and question answering, using LLMs and mBERT
+This is a repository for NLP tasks in Ladin language (Val Badia Variant), including text classification, question answering, and machine translation, using LLMs and mBERT
 
 
 🔥 **NLP Benchmark dataset for Ladin language**  
