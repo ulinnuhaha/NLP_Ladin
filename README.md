@@ -34,8 +34,18 @@ To perform the classification task using mBERT, please go to:
 ```
 SA_mBERT.ipynb
 ```
-### Few-shot learning using LLM
+# Multiple-choice question answering (MCQA)
+The MCQA dataset consists of 764 entries (Italian and Ladin) with 3-5 choices. To perform this task, we utilize few-shot learning using Llama and m-BERT.
 
+To perform the classification task using LLM, please go to:
+```
+FSL_llm.ipynb
+```
+
+To perform the classification task using mBERT, please go to:
+```
+MCQA_mBERT.ipynb
+```
 
 # Citation
 If you use our resources, please cite:
