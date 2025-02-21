@@ -24,9 +24,15 @@ This is a repository for NLP tasks in Ladin language (Val Badia Variant), includ
 
 # Sentiment Analysis
 The sentiment analysis dataset consists of 12,511 entries (Italian and Ladin) with two labels: positive and negative. To perform this task, we utilize few-shot learning using Llama and m-BERT.
+
 To perform the classification task using LLM, please go to:
 ```
-FSL_llama.ipynb
+FSL_llm.ipynb
+```
+
+To perform the classification task using mBERT, please go to:
+```
+SA_mBERT.ipynb
 ```
 ### Few-shot learning using LLM
 
