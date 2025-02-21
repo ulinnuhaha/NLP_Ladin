@@ -5,7 +5,7 @@ To set the API key, Set the FINETUNEDB_API_KEY environment variables before runn
 export FINETUNEDB_API_KEY="your_finetunedb_api_key"
 ```
 Here, we use Llama-3.1-70B version of LLama
-To change the API provider and the LLMs version of Llama you can go to:
+To change the API provider and the LLM version of Llama you can go to:
 ```
 FSLModel.py
 ```
