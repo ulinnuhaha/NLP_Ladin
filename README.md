@@ -15,7 +15,7 @@ This is a repository for NLP tasks in Ladin language (Val Badia Variant), includ
 
 🔥 **NLP Benchmark dataset for Ladin language**  
 🔗 **Try it on [Hugging Face](https://huggingface.co/datasets/ulinnuha)**  
-📄 **Read our [paper](https://arxiv.org/abs/XXXX.XXXXX)**  
+📄 **Read our [paper](https://arxiv.org/abs/2509.03962)**  
 
 ## 📌 Features
 ✅ Supports parallel sentences between Italian and Ladin (Val Badia Varaint)  
@@ -51,8 +51,8 @@ MCQA_mBERT.ipynb
 If you use our resources, please cite:
 ```bash
 @article{my_paper,
-  title={My Awesome NLP Model},
-  author={Your Name, Co-authors},
+  title={Exploring NLP Benchmarks in an Extremely Low-Resource Setting},
+  author={Ulin Nuha, Adam Jatowt},
   journal={ArXiv},
   year={2025}
 }
