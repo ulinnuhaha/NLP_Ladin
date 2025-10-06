@@ -6,7 +6,7 @@
   <a href="https://huggingface.co/datasets/ulinnuha/sentiment_analysis_ladin_italian">
     <img src="https://img.shields.io/badge/HuggingFace-SA Dataset-green" alt="Hugging Face SA Dataset">
   </a>
-  <a href="https://arxiv.org/abs/XXXX.XXXXX">
+  <a href="https://arxiv.org/abs/2509.03962">
     <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper Link">
   </a>
 </div>
