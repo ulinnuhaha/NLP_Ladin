@@ -50,11 +50,14 @@ MCQA_mBERT.ipynb
 # Citation
 If you use our resources, please cite:
 ```bash
-@article{my_paper,
-  title={Exploring NLP Benchmarks in an Extremely Low-Resource Setting},
-  author={Ulin Nuha, Adam Jatowt},
-  journal={ArXiv},
-  year={2025}
+@inproceedings{nlp-ladin-2026,
+    title     = "Towards the First NLP Benchmark for Ladin - an Extremely Low-Resource Language",
+    author    = "Nuha, Ulin and Jatowt, Adam",
+    booktitle = "Findings of the European Chapter of the Association for Computational Linguistics: EACL 2026",
+    month     = "March",
+    year      = "2026",
+    address   = "Rabat, Morocco",
+    publisher = "Association for Computational Linguistics",
 }
 
 
