@@ -30,7 +30,7 @@ To perform the classification task using LLM, please go to:
 FSL_llm.ipynb
 ```
 
-To perform the classification task using mBERT, XLM-RoBERTa, mT5, please go to:
+To perform the classification task using mBERT, XLM-RoBERTa, and mT5, please go to:
 ```
 SA.ipynb
 ```
@@ -42,9 +42,9 @@ To perform the classification task using LLM, please go to:
 FSL_llm.ipynb
 ```
 
-To perform the classification task using mBERT, please go to:
+To perform the classification task using mBERT and XLM-RoBERTa, please go to:
 ```
-MCQA_mBERT.ipynb
+MCQA_mBERT_XLM.ipynb
 ```
 
 # Citation
