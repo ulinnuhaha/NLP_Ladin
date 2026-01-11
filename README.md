@@ -23,7 +23,7 @@ This is a repository for NLP tasks in Ladin language (Val Badia Variant), includ
 ✅ Ready for fine-tuning in machine translation, text classification, and question-answering
 
 # Sentiment Analysis
-The sentiment analysis dataset consists of 12,511 entries (Italian and Ladin) with two labels: positive and negative. To perform this task, we utilize few-shot learning using Llama and m-BERT.
+The sentiment analysis dataset consists of 12,511 entries (Italian and Ladin) with two labels: positive and negative. To perform this task, we utilize few-shot learning using Llama, mBERT, XLM-RoBERTa, and mT5.
 
 To perform the classification task using LLM, please go to:
 ```
@@ -35,7 +35,7 @@ To perform the classification task using mBERT, XLM-RoBERTa, and mT5, please go 
 SA.ipynb
 ```
 # Multiple-choice question answering (MCQA)
-The MCQA dataset consists of 764 entries (Italian and Ladin) with 3-5 choices. To perform this task, we utilize few-shot learning using Llama and m-BERT.
+The MCQA dataset consists of 764 entries (Italian and Ladin) with 3-5 choices. To perform this task, we utilize few-shot learning using Llama, mBERT, XLM-RoBERTa, and mT5.
 
 To perform the classification task using LLM, please go to:
 ```
