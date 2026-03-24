@@ -6,7 +6,7 @@
   <a href="https://huggingface.co/datasets/ulinnuha/sentiment_analysis_ladin_italian">
     <img src="https://img.shields.io/badge/HuggingFace-SA Dataset-green" alt="Hugging Face SA Dataset">
   </a>
-  <a href="https://arxiv.org/abs/2509.03962">
+  <a href="https://aclanthology.org/2026.findings-eacl.55/">
     <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper Link">
   </a>
 </div>
@@ -15,7 +15,7 @@ This is a repository for NLP tasks in Ladin language (Val Badia Variant), includ
 
 🔥 **NLP Benchmark dataset for Ladin language**  
 🔗 **Try it on [Hugging Face](https://huggingface.co/datasets/ulinnuha)**  
-📄 **Read our [paper](https://arxiv.org/abs/2509.03962)**  
+📄 **Read our [paper](https://aclanthology.org/2026.findings-eacl.55/)**  
 
 ## 📌 Features
 ✅ Supports parallel sentences between Italian and Ladin (Val Badia Varaint)  
