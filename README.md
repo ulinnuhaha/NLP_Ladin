@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/HuggingFace-SA Dataset-green" alt="Hugging Face SA Dataset">
   </a>
   <a href="https://aclanthology.org/2026.findings-eacl.55/">
-    <img src="https://img.shields.io/badge/Paper-arXiv-red" alt="Paper Link">
+    <img src="https://img.shields.io/badge/Paper-*ACL-red" alt="Paper Link">
   </a>
 </div>
 This is a repository for NLP tasks in Ladin language (Val Badia Variant), including text classification, question answering, and machine translation, using LLMs and mBERT
